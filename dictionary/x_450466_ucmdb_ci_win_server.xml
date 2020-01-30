@@ -48,6 +48,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_hardware_status" label="Hardware status" max_length="40" name="u_hardware_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_hardware_substatus" label="Hardware substatus" max_length="40" name="u_hardware_substatus" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_host_name" label="Host name" max_length="40" name="u_host_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_import_set_run" label="Import set run" max_length="40" name="u_import_set_run" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_install_date" label="Install date" max_length="40" name="u_install_date" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_install_status" label="Install status" max_length="40" name="u_install_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_invoice_number" label="Invoice number" max_length="40" name="u_invoice_number" type="string"/>
@@ -84,6 +85,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_subcategory" label="Subcategory" max_length="40" name="u_subcategory" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_supported_by" label="Supported by" max_length="40" name="u_supported_by" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_support_group" label="Support group" max_length="40" name="u_support_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_template_import_log" label="Template import log" max_length="40" name="u_template_import_log" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_unverified" label="Unverified" max_length="40" name="u_unverified" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_used_for" label="Used for" max_length="40" name="u_used_for" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_vendor" label="Vendor" max_length="40" name="u_vendor" type="string"/>

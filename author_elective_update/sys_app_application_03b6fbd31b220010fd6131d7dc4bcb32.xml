@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>UCMDB to ServiceNow Integration</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 13:54:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>03b6fbd31b220010fd6131d7dc4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UCMDB to ServiceNow Integration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_update_name>sys_app_application_03b6fbd31b220010fd6131d7dc4bcb32</sys_update_name>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 13:54:18</sys_updated_on>
+        <title>UCMDB to ServiceNow Integration</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</application>
+        <file_path/>
+        <instance_id>d16c902fdb8ffb4407072f17d49619a4</instance_id>
+        <instance_name>dev91289</instance_name>
+        <name>sys_app_application_03b6fbd31b220010fd6131d7dc4bcb32</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description>UCMDB to ServiceNow Integration</description><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>jay.allen</sys_created_by><sys_created_on>2020-01-30 13:54:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>03b6fbd31b220010fd6131d7dc4bcb32</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UCMDB to ServiceNow Integration</sys_name><sys_overrides/><sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package><sys_policy/><sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope><sys_update_name>sys_app_application_03b6fbd31b220010fd6131d7dc4bcb32</sys_update_name><sys_updated_by>jay.allen</sys_updated_by><sys_updated_on>2020-01-30 13:54:18</sys_updated_on><title>UCMDB to ServiceNow Integration</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1092671013</payload_hash>
+        <record_name>UCMDB to ServiceNow Integration</record_name>
+        <reverted_from/>
+        <source>27fcdc971ba60010fd6131d7dc4bcb1b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 13:54:18</sys_created_on>
+        <sys_id>d4e6fbd31b220010fd6131d7dc4bcb71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ff6bb298c0000001</sys_recorded_at>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 13:54:18</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>dce6fbd33a220010664d84a5a1b84970</update_guid>
+        <update_guid_history>dce6fbd33a220010664d84a5a1b84970:-1092671013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UCMDB to ServiceNow Integration">ef3df75b1b220010fd6131d7dc4bcb30</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 14:22:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>267da62b83564c8e86b95935e4d65169</sys_id>
+        <sys_metadata>03b6fbd31b220010fd6131d7dc4bcb32</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UCMDB to ServiceNow Integration</sys_name>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_scope_delete display_value="">066c1b4fddd04674816caee9eef60510</sys_scope_delete>
+        <sys_update_name>sys_app_application_03b6fbd31b220010fd6131d7dc4bcb32</sys_update_name>
+        <sys_update_version display_value="sys_app_application_03b6fbd31b220010fd6131d7dc4bcb32">d4e6fbd31b220010fd6131d7dc4bcb71</sys_update_version>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 14:22:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_450466_ucmdb_ci_computer</description>
+        <name>x_450466_ucmdb_ci_computer</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 15:50:38</sys_created_on>
+        <sys_id>5481d02f1b620010fd6131d7dc4bcb52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_450466_ucmdb_ci_computer</sys_name>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_update_name>sys_security_acl_5481d02f1b620010fd6131d7dc4bcb52</sys_update_name>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 15:50:38</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</application>
+        <file_path/>
+        <instance_id>d16c902fdb8ffb4407072f17d49619a4</instance_id>
+        <instance_name>dev91289</instance_name>
+        <name>sys_security_acl_5481d02f1b620010fd6131d7dc4bcb52</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_450466_ucmdb_ci_computer</description><name>x_450466_ucmdb_ci_computer</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>jay.allen</sys_created_by><sys_created_on>2020-01-30 15:50:38</sys_created_on><sys_id>5481d02f1b620010fd6131d7dc4bcb52</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_450466_ucmdb_ci_computer</sys_name><sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package><sys_policy/><sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope><sys_update_name>sys_security_acl_5481d02f1b620010fd6131d7dc4bcb52</sys_update_name><sys_updated_by>jay.allen</sys_updated_by><sys_updated_on>2020-01-30 15:50:38</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1386782494</payload_hash>
+        <record_name>x_450466_ucmdb_ci_computer</record_name>
+        <reverted_from/>
+        <source>27fcdc971ba60010fd6131d7dc4bcb1b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 15:50:38</sys_created_on>
+        <sys_id>6c81d02f1b620010fd6131d7dc4bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ff725ac670000001</sys_recorded_at>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 15:50:38</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>a481d02fe8620010c72821bf93520e55</update_guid>
+        <update_guid_history>a481d02fe8620010c72821bf93520e55:-1386782494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 15:55:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>18faf4fd83bb499893217f2a6d347064</sys_id>
+        <sys_metadata>5481d02f1b620010fd6131d7dc4bcb52</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_450466_ucmdb_ci_computer</sys_name>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_parent display_value="">6081d02f1b620010fd6131d7dc4bcb6b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_scope_delete display_value="">066c1b4fddd04674816caee9eef60510</sys_scope_delete>
+        <sys_update_name>sys_security_acl_5481d02f1b620010fd6131d7dc4bcb52</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_5481d02f1b620010fd6131d7dc4bcb52">6c81d02f1b620010fd6131d7dc4bcb55</sys_update_version>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 15:55:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

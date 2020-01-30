@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_450466_ucmdb_ci_windows_service</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-29 22:35:35</sys_created_on>
+        <sys_id>d294a89f1ba60010fd6131d7dc4bcb9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_450466_ucmdb_ci_windows_service</sys_name>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d294a89f1ba60010fd6131d7dc4bcb9d</sys_update_name>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-29 22:35:35</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</application>
+        <file_path/>
+        <instance_id>d16c902fdb8ffb4407072f17d49619a4</instance_id>
+        <instance_name>dev91289</instance_name>
+        <name>ua_table_licensing_config_d294a89f1ba60010fd6131d7dc4bcb9d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_450466_ucmdb_ci_windows_service</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>jay.allen</sys_created_by><sys_created_on>2020-01-29 22:35:35</sys_created_on><sys_id>d294a89f1ba60010fd6131d7dc4bcb9d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_450466_ucmdb_ci_windows_service</sys_name><sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package><sys_policy/><sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope><sys_update_name>ua_table_licensing_config_d294a89f1ba60010fd6131d7dc4bcb9d</sys_update_name><sys_updated_by>jay.allen</sys_updated_by><sys_updated_on>2020-01-29 22:35:35</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1363502851</payload_hash>
+        <record_name>x_450466_ucmdb_ci_windows_service</record_name>
+        <reverted_from/>
+        <source>27fcdc971ba60010fd6131d7dc4bcb1b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-29 22:35:35</sys_created_on>
+        <sys_id>d694a89f1ba60010fd6131d7dc4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ff3720bf90000001</sys_recorded_at>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-29 22:35:35</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>1294a89f61a600100fa36ed76a15c99e</update_guid>
+        <update_guid_history>1294a89f61a600100fa36ed76a15c99e:1363502851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 16:14:27</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>3bb95cbf64b84c419c0fae8e9e203ab1</sys_id>
+        <sys_metadata>d294a89f1ba60010fd6131d7dc4bcb9d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_450466_ucmdb_ci_windows_service</sys_name>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_scope_delete display_value="">066c1b4fddd04674816caee9eef60510</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_d294a89f1ba60010fd6131d7dc4bcb9d</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_d294a89f1ba60010fd6131d7dc4bcb9d">d694a89f1ba60010fd6131d7dc4bcb9e</sys_update_version>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 16:14:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

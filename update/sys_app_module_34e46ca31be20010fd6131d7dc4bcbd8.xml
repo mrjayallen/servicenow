@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>User customized web service</hint>
+        <homepage/>
+        <image>images/icons/web_services_mapped.gifx</image>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>CI Unix Server</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1050</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>v_ws_editor.do?sysparm_query=name=x_450466_ucmdb_ci_unix_server</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>jay.allen</sys_created_by>
+        <sys_created_on>2020-01-30 17:15:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34e46ca31be20010fd6131d7dc4bcbd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CI Unix Server</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_update_name>sys_app_module_34e46ca31be20010fd6131d7dc4bcbd8</sys_update_name>
+        <sys_updated_by>jay.allen</sys_updated_by>
+        <sys_updated_on>2020-01-30 17:15:19</sys_updated_on>
+        <timeline_page/>
+        <title>CI Unix Server</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

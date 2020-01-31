@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter/>
         <hint>User customized web service</hint>
@@ -18,9 +19,12 @@
         <query>v_ws_editor.do?sysparm_query=name=x_450466_ucmdb_ci_windows_service</query>
         <report/>
         <roles/>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>jay.allen</sys_created_by>
         <sys_created_on>2020-01-30 16:22:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b7a854a71ba20010fd6131d7dc4bcbcd</sys_id>
@@ -29,6 +33,7 @@
         <sys_overrides/>
         <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
         <sys_update_name>sys_app_module_b7a854a71ba20010fd6131d7dc4bcbcd</sys_update_name>
         <sys_updated_by>jay.allen</sys_updated_by>

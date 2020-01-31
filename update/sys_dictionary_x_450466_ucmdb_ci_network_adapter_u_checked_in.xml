@@ -48,15 +48,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jay.allen</sys_created_by>
         <sys_created_on>2020-01-30 16:08:33</sys_created_on>
-        <sys_id>7e9510631ba20010fd6131d7dc4bcb6f</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a577ac6fdba64c108bdecebe3b9619d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Checked in</sys_name>
         <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
         <sys_update_name>sys_dictionary_x_450466_ucmdb_ci_network_adapter_u_checked_in</sys_update_name>
-        <sys_updated_by>jay.allen</sys_updated_by>
-        <sys_updated_on>2020-01-30 16:08:33</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-01-30 17:28:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

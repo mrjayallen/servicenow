@@ -11,11 +11,13 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>jay.allen</sys_created_by>
             <sys_created_on>2020-01-30 16:12:36</sys_created_on>
-            <sys_id>ce8658a31ba20010fd6131d7dc4bcb8c</sys_id>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9977ac6fdba64c108bdecebe3b961987</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Model number</sys_name>
             <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
             <sys_update_name>sys_documentation_x_450466_ucmdb_ci_computer_u_model_number_en</sys_update_name>
             <sys_updated_by>jay.allen</sys_updated_by>

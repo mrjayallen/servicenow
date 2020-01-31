@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New UCMDBTest-Query Results</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>UCMDBTest-Query Results</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Query Builder Results" name="Query Builder Results">bb4a19addb502300dd2aa2bc0b96190f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>jagadeesan.s@microfocus.com</sys_created_by>
+        <sys_created_on>2020-01-31 19:22:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>47ab4ab7dba6c0508bdecebe3b96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UCMDBTest-Query Results</sys_name>
+        <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
+        <sys_update_name>sys_wizard_answer_47ab4ab7dba6c0508bdecebe3b96194f</sys_update_name>
+        <sys_updated_by>jagadeesan.s@microfocus.com</sys_updated_by>
+        <sys_updated_on>2020-01-31 19:22:53</sys_updated_on>
+        <table/>
+        <target_url>x_450466_ucmdb_u_cmdb_qb_result_31d3330ce9e611b5df2f2d19ad35c4cda6dc654a.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

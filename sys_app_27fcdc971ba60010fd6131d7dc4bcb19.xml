@@ -3,13 +3,12 @@
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
-        <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category>none</license_category>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="UCMDB To ServiceNow Integration">09f3981f1b660010fd6131d7dc4bcbe0</menu>
+        <menu display_value="">09f3981f1b660010fd6131d7dc4bcbe0</menu>
         <name>UCMDB to ServiceNow Integration</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>

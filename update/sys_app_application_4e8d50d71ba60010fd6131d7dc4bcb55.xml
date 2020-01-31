@@ -11,6 +11,7 @@
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>jay.allen</sys_created_by>
         <sys_created_on>2020-01-29 22:04:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4e8d50d71ba60010fd6131d7dc4bcb55</sys_id>
@@ -19,6 +20,7 @@
         <sys_overrides/>
         <sys_package display_value="UCMDB to ServiceNow Integration" source="x_450466_ucmdb">27fcdc971ba60010fd6131d7dc4bcb19</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="UCMDB to ServiceNow Integration">27fcdc971ba60010fd6131d7dc4bcb19</sys_scope>
         <sys_update_name>sys_app_application_4e8d50d71ba60010fd6131d7dc4bcb55</sys_update_name>
         <sys_updated_by>jay.allen</sys_updated_by>
